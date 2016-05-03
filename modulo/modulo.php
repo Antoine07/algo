@@ -1,4 +1,10 @@
 <?php
+
+/**
+ *  @author: AntoineO7
+ *  @mail: antoine.lucsko@gmail.com
+ */
+
 $count = 0;
 $posts = range(0, 10);
 $nbPosts = count($posts);
