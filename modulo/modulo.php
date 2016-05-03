@@ -1,4 +1,9 @@
 <?php
+
+/**
+ *  @author: AntoineO7
+ */
+
 $count = 0;
 $posts = range(0, 10);
 $nbPosts = count($posts);
